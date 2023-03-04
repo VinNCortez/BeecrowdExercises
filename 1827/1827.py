@@ -1,4 +1,3 @@
-# Matriz Quadrada IV
 import math
 while True:
     try:
